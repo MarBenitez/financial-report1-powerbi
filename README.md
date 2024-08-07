@@ -4,7 +4,7 @@
 
 ## Description
 
-This repository contains a dashboard developed in Power BI to showcase my skills in data visualization and analysis. The dashboard allows users to gain significant insights and perform detailed data analysis.
+This repository contains a dashboard developed in Power BI to showcase my skills in data visualization and analysis. The [dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDFkMjEzZTQtNGVhOS00OGZmLThmZWYtOWU0YjMzYWMxNmJjIiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9&embedImagePlaceholder=true) allows users to gain significant insights and perform detailed data analysis.
 
 ## Dashboard Features
 
