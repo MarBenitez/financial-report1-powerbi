@@ -1,5 +1,7 @@
 # Financial Power BI Dashboard
 
+![banner](https://images.ctfassets.net/lzny33ho1g45/5FH7fLMZABa2N5O25hniRV/e980968e81b8bcda2bebffc98736e47a/Data_analysis_hero.jpg)
+
 ## Description
 
 This repository contains a dashboard developed in Power BI to showcase my skills in data visualization and analysis. The dashboard allows users to gain significant insights and perform detailed data analysis.
@@ -26,4 +28,6 @@ The dataset used in this dashboard contains sales data from a company. The data 
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/powerbi-dashboard-showcase.git
+   git clone https://github.com/MarBenitez/financial-report1-powerbi
+
+2. Clink the link to the [Power BI App](https://app.powerbi.com/view?r=eyJrIjoiMDFkMjEzZTQtNGVhOS00OGZmLThmZWYtOWU0YjMzYWMxNmJjIiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9&embedImagePlaceholder=true)
