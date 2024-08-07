@@ -19,7 +19,6 @@ The dataset used in this dashboard contains sales data from a company. The data 
 
 ## Project Structure
 
-- `data/`: Contains the datasets used in the dashboard.
 - `dashboard.pbix`: Power BI dashboard file.
 - `images/`: Screenshots of the dashboard.
 - `README.md`: This file.
