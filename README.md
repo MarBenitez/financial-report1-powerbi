@@ -30,3 +30,13 @@ The dataset used in this dashboard contains sales data from a company. The data 
    git clone https://github.com/MarBenitez/financial-report1-powerbi
 
 2. Clink the link to the [Power BI App](https://app.powerbi.com/view?r=eyJrIjoiMDFkMjEzZTQtNGVhOS00OGZmLThmZWYtOWU0YjMzYWMxNmJjIiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9&embedImagePlaceholder=true)
+
+## Screenshots
+
+Dashboard on images:
+
+![global](https://github.com/MarBenitez/financial-report1-powerbi/blob/main/images/global.png)
+
+![detailed-analysis](https://github.com/MarBenitez/financial-report1-powerbi/blob/main/images/detailed-analysis.png)
+
+![trends](https://github.com/MarBenitez/financial-report1-powerbi/blob/main/images/trend.png)
